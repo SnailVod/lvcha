@@ -26,14 +26,13 @@
       "changeable": 0,
       "ext": "./lib/tokenm.json"
     },
-     {"key":"PikPakShare","name":"📺PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext": "./lib/tokenm.json$$$./lib/lvcha/pikpakclass.a.json$$$./lib/lvcha/pikpakclass.a.json.txt.gz",
+    {"key":"PikPakShare","name":"📺PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext": "./lib/tokenm.json$$$./lib/lvcha/pikpakclass.a.json$$$./lib/lvcha/pikpakclass.a.json.txt.gz",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
-			}
-		},   
-
-           {
+			     }
+		    },   
+        {
             "key": "Cable",
             "name": "Cable",
             "type": 3,
@@ -48,8 +47,8 @@
                 "type": "rect",
                 "ratio": 1.5
             }
-          },
-           {
+        },
+        {
             "key": "JavBus",
             "name": "JavBus",
             "type": 3,
@@ -65,7 +64,7 @@
                 "ratio": 1.5
             }
         },
-         {
+        {
             "key": "Jable",
             "name": "Jable",
             "type": 3,
@@ -97,7 +96,7 @@
                 "ratio": 1.5
             }
         },
-          {
+        {
             "key": "Hanime",
             "name": "Hanime",
             "type": 3,
@@ -113,7 +112,7 @@
                 "ratio": 1.5
             }
         },
-            {
+        {
             "key": "Miss",
             "name": "Miss",
             "type": 3,
@@ -145,7 +144,7 @@
                 "ratio": 1.5
             }
         },
-           {
+        {
             "key": "Xojav",
             "name": "XoJav",
             "type": 3,
@@ -161,7 +160,7 @@
                 "ratio": 1.5
             }
         },
-            {
+        {
             "key": "Eighteen",
             "name": "Eighteen",
             "type": 3,
@@ -177,7 +176,7 @@
                 "ratio": 1.5
             }
         },
-             {
+        {
             "key": "桃花族",
             "name": "Taohuazu",
             "type": 3,
@@ -193,7 +192,7 @@
                 "ratio": 1.5
             }
         },
-             {
+        {
             "key": "Zuise",
             "name": "Zuise",
             "type": 3,
@@ -209,7 +208,7 @@
                 "ratio": 1.5
             }
         },
-            {
+        {
             "key": "玩偶",
             "name": "HkDoll",
             "type": 3,
@@ -220,8 +219,7 @@
                 "ratio": 1.309
             }
         },
-
-              {
+        {
             "key": "csp_xBPQ_超清",
             "name": "香蕉┃分类",
             "type": 3,
